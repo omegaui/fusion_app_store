@@ -7,7 +7,8 @@ Not just multiplatform apps, you can even publish your apps that works for a spe
 Currently, Fusion supports all desktop platforms and Android apps.
 
 ### ![icon](https://img.icons8.com/nolan/32/star.png) Features
-Written in Flutter with Firebase at the backend, Fusion provides a bunch of great unique features:
+Written in Flutter with Firebase at the backend, 
+Fusion provides a bunch of great unique features:
 
 - No Registration Cost
 - No Onboarding Cost
