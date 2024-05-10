@@ -1,0 +1,69 @@
+{
+  "maintainer": "<username>",
+  "name": "",
+  "short-description": "",
+  "description": "",
+  "icon": "",
+  "banner-image": "",
+  "image-urls": [],
+  "category": "",
+  "esrb-rating": "",
+  "pricing-model": {
+    "type": "paid",
+    "price": 100,
+    "currency": "$"
+  },
+  "in-app-purchases": {
+    "min": 1.0,
+    "max": 2.98,
+    "currency": "$"
+  },
+  "force-latest": false,
+  "system-requirements": [
+    {
+      "type": "minimum",
+      "ram": "",
+      "cpu": "",
+      "architecture": "",
+      "additional": {}
+    }
+  ],
+  "permissions": [
+    {
+      "type": "location",
+      "description": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "supported-languages": [],
+  "supported-platforms": [
+    {
+      "platform": "windows",
+      "os": ["windows"],
+      "target-versions": [
+        "11",
+        "10"
+      ],
+      "dependencies": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "enabled": true,
+          "latest": true,
+          "stable": true,
+          "beta": false,
+          "bundleUrl": "<url>",
+          "download-size": "",
+          "install-size": ""
+        }
+      ]
+    }
+  ],
+  "code-source": "",
+  "homepage": "",
+  "support-email": "",
+  "license": "",
+  "links": []
+}

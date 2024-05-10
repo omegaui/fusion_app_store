@@ -1,0 +1,14 @@
+{
+  "username": "#unique",
+  "user-login-email": "#googlesigin",
+  "password": "#encrypted",
+  "avatar-url": "",
+  "bio": "",
+  "user-type": "",
+  "liked-apps": "$Set<AppIDs>",
+  "owned-apps": "$Set<AppIDs>",
+  "active": "#defines if the user wants to be visible to the public",
+  "reputation": "#criteria on which the user is respected on fusion",
+  "strikes": "#criteria on which the user is banned from fusion",
+  "joinedAt": "$DateTime"
+}

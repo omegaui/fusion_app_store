@@ -1,0 +1,28 @@
+class AppAvatars {
+  static List<String> avatarUrls = [
+    "assets/avatars/armor-helmet.png",
+    "assets/avatars/asteriod.png",
+    "assets/avatars/astranaut.png",
+    "assets/avatars/bad-piggies.png",
+    "assets/avatars/bmo.png",
+    "assets/avatars/bulbasaur.png",
+    "assets/avatars/charmander.png",
+    "assets/avatars/galaxy.png",
+    "assets/avatars/game-controller.png",
+    "assets/avatars/love-potion.png",
+    "assets/avatars/meowth.png",
+    "assets/avatars/ninja-turtle.png",
+    "assets/avatars/pidgey.png",
+    "assets/avatars/pikachu.png",
+    "assets/avatars/psyduck.png",
+    "assets/avatars/snorlax.png",
+    "assets/avatars/sonic.png",
+    "assets/avatars/squid-game.png",
+    "assets/avatars/stormtrooper.png",
+    "assets/avatars/user-female.png",
+    "assets/avatars/user-male.png",
+    "assets/avatars/valor.png",
+    "assets/avatars/winner.png",
+    "assets/avatars/zubat.png",
+  ];
+}

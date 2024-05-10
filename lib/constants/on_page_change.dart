@@ -1,0 +1,1 @@
+typedef OnPageChange = void Function();

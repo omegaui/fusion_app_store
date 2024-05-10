@@ -1,0 +1,96 @@
+{
+    "maintainer": "omegaui",
+    "name": "Chat GPT",
+    "packageID": "chat-gpt",
+    "tags": [
+        "flutter-app",
+        "cool"
+    ],
+    "short-description": "A very cool app from a fairy tale",
+    "description": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    ],
+    "icon": "https://img.icons8.com/nolan/128/chatgpt.png",
+    "banner-image": "https://img.freepik.com/free-vector/earth-view-night-from-alien-planet-neon-space_33099-1876.jpg?w=1800&t=st=1703937985~exp=1703938585~hmac=15ae550d8d5ab0712a37871529077a4ab4a461e03b947d2c9ed005bea3c27d2e",
+    "image-urls": [
+        "https://img.freepik.com/free-vector/location-app-screens_23-2148686598.jpg?w=826&t=st=1703938045~exp=1703938645~hmac=6636fc33d998aa6a4d13819aad4ebcca5fa2ae5ba6067aff5fc186b6064a84ed",
+        "https://img.freepik.com/free-vector/workout-tracker-app-interface_23-2148653679.jpg?w=1380&t=st=1703938064~exp=1703938664~hmac=b60e1e4cfb2c8a539476e350181a771739f40d0ff892887bf073445fa10597af"
+    ],
+    "category": "education",
+    "esrb-rating": "everyone",
+    "pricing-model": {
+        "type": "free",
+        "price": 0,
+        "currency": "$"
+    },
+    "in-app-purchase-model": {
+        "min": 0.0,
+        "max": 0.0,
+        "currency": "$"
+    },
+    "force-latest": false,
+    "system-requirements": [
+        {
+            "type": "minimum",
+            "ram": "2 GB",
+            "cpu": "Intel Core i3 or above",
+            "architecture": "amd64",
+            "additional": {}
+        }
+    ],
+    "permissions": [
+        {
+            "type": "location",
+            "description": [
+                "Needed to use the map"
+            ]
+        },
+        {
+            "type": "network",
+            "description": [
+                "Needed to play online"
+            ]
+        }
+    ],
+    "supported-languages": ["English"],
+    "supported-platforms": [
+        {
+            "type": "windows",
+            "os": [
+                "windows"
+            ],
+            "target-versions": [
+                "11",
+                "10"
+            ],
+            "dependencies": ["wget"],
+            "versions": [
+                {
+                    "name": "1.0.0",
+                    "enabled": true,
+                    "latest": false,
+                    "stable": true,
+                    "beta": false,
+                    "bundle-url": "https://img.icons8.com/fluency/48/get-started-app.png",
+                    "download-size": "2 MB",
+                    "install-size": "10 MB"
+                },
+                {
+                    "name": "1.0.1",
+                    "enabled": true,
+                    "latest": true,
+                    "stable": true,
+                    "beta": false,
+                    "bundle-url": "https://img.icons8.com/fluency/48/get-started-app.png",
+                    "download-size": "2 MB",
+                    "install-size": "10 MB"
+                }
+            ]
+        }
+    ],
+    "code-source": "",
+    "homepage": "",
+    "support-email": "",
+    "license": "Proprietry",
+    "links": []
+}
