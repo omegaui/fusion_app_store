@@ -22,7 +22,22 @@ Fusion provides a bunch of great unique features:
 - Full Featured Dashboard to customize your apps
 - Google Sign In Support
 
-### Origin
+### ![](https://img.icons8.com/color/32/engineering.png) Technologies
+
+- Flutter
+    - GetX: Route Navigation, Dependency Injection
+    - Clean Architecture: Core layout
+    - State Machine: State Management
+
+- Firebase
+    - Authentication: Google Signin
+    - Firestore: App Data Storage
+    - Cloud Storage: To store icons, images and app bundles.
+
+- Figma
+    - Pages and UI/UX Designing.
+
+### ![](https://img.icons8.com/fluency/32/homeland.png) Origin
 
 Started as a college project, Fusion is the true combination of desktop app stores to provide a central place for the developers to publish their applications whether open source or proprietary from a single app store to all the desktop platforms.
 
@@ -41,5 +56,3 @@ the project is currently hosted from Firebase' spark plan, so we got limited sto
 This project gives an starting point to anyone to understand how to build their own app store.
 
 Thanks for trying out the Fusion App Store, if you haven't yet, then, please give it a try, it's amazing.
-
-
