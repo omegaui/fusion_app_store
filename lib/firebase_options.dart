@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCOh2kQONUKmgRJtBS45Rf2E6lsBHGkicA',
+    apiKey: 'revoked',
     appId: '1:344185309811:web:f8ceee544b7298f5f27806',
     messagingSenderId: '344185309811',
     projectId: 'fusion-app-store',
